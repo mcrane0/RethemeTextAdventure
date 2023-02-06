@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#main {
+    width:100%;
+}
+
+#title {
+    margin:8px;
+    margin-top:20px;
+    text-align: center;
+    font-size: 40px;
+}
+#subtitle {
+    margin:2px;
+    text-align: center;
+    font-size: 24px;
+}
+
+#instructions {
+    margin:40px;
+    text-align: center;
+}
